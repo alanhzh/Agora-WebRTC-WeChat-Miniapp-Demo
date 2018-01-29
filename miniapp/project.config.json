@@ -9,7 +9,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.7.2",
-	"appid": "wxde7eb2699edbb4bf",
+	"appid": "YOUR_WECHAT_MINIAPP_APPID",
 	"projectname": "miniapps",
 	"condition": {
 		"search": {

@@ -1,2 +1,3 @@
 <!--index.wxml-->
+<!--change this to your own webrtc link-->
 <web-view src="https://webdemo.agora.io/videocall"></web-view>
