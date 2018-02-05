@@ -3,6 +3,7 @@
 在这个示例项目中包含了以下功能：
 
 - 使用微信小程序WebView控件集成Agora WebRTC SDK
+- *目前该示例不支持iOS设备
 
 ## 准备环境
 - 准备一个已经集成了Agora WebRTC的线上环境
